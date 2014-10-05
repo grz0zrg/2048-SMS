@@ -3,6 +3,8 @@
 
 2048 - Simple puzzle game for the Sega Master System
 
+[Compiled with wla-dx](http://www.villehelin.com/wla.html)
+
 ### Description ###
 
 readme.txt
