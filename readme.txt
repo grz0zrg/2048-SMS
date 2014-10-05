@@ -1,4 +1,4 @@
-2048 for Sega Master System, v1.0
+2048 for Sega Master System, v1.02
 
 by Julien Verneuil aka Grz-
 
